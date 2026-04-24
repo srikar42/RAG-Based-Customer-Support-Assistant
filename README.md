@@ -241,7 +241,7 @@ This project demonstrates a complete **RAG-based system** with retrieval, genera
 
 ## 🙌 Author
 
-**Sai B**
+**Srikar Emmadi**
 CSE Graduate | Data Science Enthusiast
 
 ---
